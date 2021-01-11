@@ -4,6 +4,7 @@ Learning Kubernetes
 
 wanting to learn how to version control projects with git (Edits madue from within github)
 
+(Edits made within vim)
 One Paragraph of your project description goes here. Describe what you're trying to do.
 What is the purpose of putting up this repo?
 
